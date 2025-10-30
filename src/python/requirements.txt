@@ -1,0 +1,12 @@
+scrapy
+nest-asyncio
+pandas
+sentence-transformers
+torch
+scrapy-playwright
+beautifulsoup4
+requests
+matplotlib
+seaborn
+openpyxl
+tabulate
